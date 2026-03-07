@@ -1,0 +1,201 @@
+OrderID,OrderDate,CustomerName,ProductCategory,ProductName,Quantity,UnitPrice,Sales,Region
+1001,2026-03-28,Manuel Stuart MD,Office Supplies,Printer Paper,8,705,5640,East
+1002,2026-03-18,Betty Arias,Office Supplies,Notebook,3,219,657,North
+1003,2026-02-03,Sheila Buchanan,Office Supplies,Printer Paper,5,104,520,South
+1004,2026-03-29,Dawn Gonzalez,Office Supplies,Notebook,5,774,3870,South
+1005,2026-02-24,Lori Wagner,Furniture,Desk,2,196,392,South
+1006,2026-03-12,William Vargas,Electronics,Laptop,6,257,1542,South
+1007,2026-03-24,Shannon Ramos,Electronics,Laptop,3,880,2640,North
+1008,2026-02-20,Robert Lewis,Electronics,Smartphone,5,823,4115,North
+1009,2026-01-11,Michael Miller,Electronics,Laptop,7,278,1946,South
+1010,2026-02-20,Brandon Dunlap,Electronics,Monitor,2,781,1562,West
+1011,2026-01-22,Victoria Cross,Electronics,Headphones,4,96,384,North
+1012,2026-01-06,Alyssa Benjamin,Office Supplies,Printer Paper,8,947,7576,North
+1013,2026-02-26,Carol Thomas,Furniture,Chair,4,566,2264,South
+1014,2026-02-27,Christopher Richardson,Furniture,Desk,6,570,3420,West
+1015,2026-01-09,Scott Klein,Furniture,Chair,2,734,1468,South
+1016,2026-02-24,Kimberly Berger,Furniture,Desk,4,274,1096,North
+1017,2026-01-23,Darren Leach,Office Supplies,Printer Paper,7,256,1792,East
+1018,2026-01-15,Miss Deborah Ponce,Furniture,Table,5,724,3620,East
+1019,2026-03-14,Keith Leonard,Furniture,Cabinet,5,796,3980,West
+1020,2026-03-03,Theresa Myers,Electronics,Monitor,9,161,1449,North
+1021,2026-03-15,Kristie Estes,Electronics,Laptop,9,843,7587,East
+1022,2026-01-27,Dustin Lopez,Electronics,Monitor,8,476,3808,North
+1023,2026-02-09,Scott Alexander,Office Supplies,Stapler,1,396,396,North
+1024,2026-01-26,Robin Graves,Office Supplies,Pen Set,5,494,2470,North
+1025,2026-01-02,Lindsay Allen,Furniture,Chair,7,205,1435,South
+1026,2026-03-19,Jonathan Rios,Furniture,Chair,7,411,2877,West
+1027,2026-02-23,Kaitlyn Robbins,Electronics,Smartphone,8,730,5840,North
+1028,2026-03-11,Anthony Gonzales,Office Supplies,Pen Set,3,617,1851,North
+1029,2026-02-18,Lori Campbell,Furniture,Cabinet,1,9,9,West
+1030,2026-03-03,Jennifer Livingston,Office Supplies,Stapler,7,799,5593,East
+1031,2026-03-07,Brandi Scott,Office Supplies,Stapler,3,579,1737,South
+1032,2026-02-22,Shari Watts,Office Supplies,Pen Set,4,100,400,South
+1033,2026-03-17,Virginia Zimmerman,Furniture,Chair,7,235,1645,East
+1034,2026-03-06,Adam Chapman,Office Supplies,Stapler,4,529,2116,South
+1035,2026-03-09,Christine Logan,Office Supplies,Stapler,3,90,270,South
+1036,2026-03-25,Robert Lopez,Furniture,Desk,9,650,5850,South
+1037,2026-01-21,Jane Garcia,Furniture,Desk,7,352,2464,East
+1038,2026-02-24,Nancy Ortiz,Office Supplies,Notebook,1,389,389,East
+1039,2026-03-12,Michael Edwards,Office Supplies,Notebook,9,632,5688,East
+1040,2026-02-01,Lawrence Reed,Electronics,Smartphone,7,714,4998,South
+1041,2026-03-01,Veronica Bowman DVM,Office Supplies,Pen Set,5,229,1145,North
+1042,2026-01-15,Tina Petersen,Furniture,Table,8,979,7832,North
+1043,2026-02-13,Jacqueline Chapman,Furniture,Table,8,237,1896,South
+1044,2026-03-15,Peter Townsend,Electronics,Headphones,1,446,446,South
+1045,2026-01-17,Melissa Pittman,Furniture,Cabinet,2,391,782,East
+1046,2026-02-08,Dustin Larsen,Electronics,Laptop,8,85,680,North
+1047,2026-02-20,Patricia Hernandez,Electronics,Headphones,2,224,448,West
+1048,2026-02-25,Justin Harvey,Office Supplies,Pen Set,1,389,389,North
+1049,2026-03-10,Michael Torres,Furniture,Desk,5,688,3440,West
+1050,2026-02-09,Tom Bautista DVM,Furniture,Table,7,840,5880,North
+1051,2026-02-15,Wesley Martin,Office Supplies,Printer Paper,1,771,771,West
+1052,2026-03-14,Corey Rodriguez,Electronics,Monitor,2,202,404,West
+1053,2026-01-13,Mr. David Lynch,Office Supplies,Stapler,1,205,205,South
+1054,2026-03-21,Jessica Benjamin,Office Supplies,Notebook,3,664,1992,South
+1055,2026-03-11,Tammy Haynes,Office Supplies,Printer Paper,3,350,1050,North
+1056,2026-02-03,Danielle Boyd,Office Supplies,Stapler,4,868,3472,North
+1057,2026-02-24,Jeffery Pierce,Electronics,Laptop,8,644,5152,North
+1058,2026-03-18,Julie Bowers,Furniture,Table,1,783,783,South
+1059,2026-03-20,Sarah Kent,Electronics,Laptop,2,155,310,North
+1060,2026-03-30,Isabella Montes,Furniture,Desk,3,267,801,South
+1061,2026-01-29,Randy Kelly,Furniture,Table,9,576,5184,East
+1062,2026-01-17,Michael Khan,Furniture,Chair,5,41,205,South
+1063,2026-02-23,James Campbell,Office Supplies,Stapler,9,237,2133,North
+1064,2026-03-19,Nancy Castillo,Office Supplies,Printer Paper,3,408,1224,South
+1065,2026-02-04,Tracey Thomas,Furniture,Table,1,924,924,South
+1066,2026-01-18,Brian Sheppard,Office Supplies,Pen Set,8,424,3392,West
+1067,2026-01-06,David Johnson,Furniture,Cabinet,9,103,927,East
+1068,2026-01-03,Henry West,Electronics,Headphones,2,710,1420,West
+1069,2026-01-08,Joseph Murray MD,Office Supplies,Printer Paper,9,165,1485,South
+1070,2026-01-30,Danielle Schmidt,Electronics,Headphones,5,820,4100,South
+1071,2026-01-30,Kristina Smith,Office Supplies,Stapler,1,644,644,East
+1072,2026-02-20,Joshua Wright,Office Supplies,Stapler,6,379,2274,West
+1073,2026-01-28,Vanessa Baker,Furniture,Desk,6,234,1404,East
+1074,2026-01-10,Charles Edwards,Office Supplies,Notebook,8,287,2296,North
+1075,2026-03-20,Bernard Young,Furniture,Chair,1,288,288,North
+1076,2026-01-20,Lauren Campbell,Electronics,Laptop,3,520,1560,North
+1077,2026-02-22,Cynthia Gray,Electronics,Monitor,1,176,176,South
+1078,2026-03-13,Mr. Mark Johnson Jr.,Furniture,Chair,5,522,2610,North
+1079,2026-02-23,Jenna Ball,Electronics,Laptop,8,353,2824,East
+1080,2026-02-04,William Holmes,Furniture,Chair,3,704,2112,East
+1081,2026-03-07,Richard Welch,Office Supplies,Pen Set,5,932,4660,North
+1082,2026-01-02,Jamie Knight,Electronics,Monitor,3,132,396,West
+1083,2026-02-10,Cynthia Mitchell,Electronics,Headphones,6,574,3444,North
+1084,2026-01-18,Sara Rhodes,Furniture,Table,2,292,584,North
+1085,2026-02-27,Ryan Smith,Furniture,Cabinet,2,643,1286,North
+1086,2026-01-31,Seth Riley,Furniture,Desk,1,108,108,East
+1087,2026-02-15,Rebecca Patterson,Electronics,Smartphone,6,180,1080,North
+1088,2026-02-24,Mark Richards,Electronics,Headphones,7,542,3794,North
+1089,2026-01-18,Thomas Green,Furniture,Chair,8,529,4232,South
+1090,2026-03-08,Travis Hicks,Furniture,Cabinet,9,40,360,East
+1091,2026-01-20,Toni Rodriguez,Electronics,Monitor,3,475,1425,North
+1092,2026-02-21,Richard Garcia,Furniture,Desk,7,963,6741,West
+1093,2026-02-06,Adam Anderson,Office Supplies,Pen Set,6,318,1908,West
+1094,2026-03-19,Sarah Chapman,Furniture,Chair,4,686,2744,West
+1095,2026-03-16,Jacob Luna,Office Supplies,Notebook,5,997,4985,South
+1096,2026-01-31,Anthony Anderson,Electronics,Monitor,5,107,535,South
+1097,2026-03-15,Mark Higgins,Furniture,Chair,4,354,1416,North
+1098,2026-03-25,Leslie Castro,Office Supplies,Stapler,8,824,6592,South
+1099,2026-03-15,Dr. Ariel Franklin,Electronics,Headphones,3,661,1983,South
+1100,2026-03-14,Jennifer Murphy,Office Supplies,Stapler,7,350,2450,East
+1101,2026-02-13,Michael Estrada,Furniture,Chair,7,131,917,East
+1102,2026-01-16,Anthony Hall,Electronics,Laptop,1,755,755,West
+1103,2026-03-26,Donald Ramirez,Furniture,Desk,9,492,4428,East
+1104,2026-03-18,Robin Romero,Electronics,Laptop,7,708,4956,North
+1105,2026-02-20,Christina Burns,Electronics,Headphones,7,967,6769,South
+1106,2026-03-12,Lauren White,Furniture,Table,3,90,270,East
+1107,2026-03-16,Cynthia Wagner,Electronics,Headphones,5,51,255,East
+1108,2026-03-20,Jason Carter,Furniture,Desk,4,457,1828,South
+1109,2026-03-03,Benjamin Newton,Furniture,Desk,5,555,2775,South
+1110,2026-01-29,Brittany Smith,Electronics,Headphones,5,27,135,West
+1111,2026-03-17,Misty Nguyen,Furniture,Desk,5,104,520,West
+1112,2026-02-27,Jason Cobb,Office Supplies,Notebook,3,446,1338,South
+1113,2026-03-02,Shannon Marshall,Electronics,Monitor,5,520,2600,South
+1114,2026-01-28,David Lin,Office Supplies,Notebook,1,992,992,South
+1115,2026-03-18,Samantha Ward,Office Supplies,Printer Paper,8,912,7296,West
+1116,2026-02-28,Jesus Stephens,Office Supplies,Printer Paper,1,933,933,East
+1117,2026-02-06,Carolyn Miller,Office Supplies,Stapler,5,272,1360,North
+1118,2026-02-01,Jerry Franklin,Electronics,Laptop,8,846,6768,North
+1119,2026-01-30,Matthew Williams,Electronics,Laptop,2,257,514,North
+1120,2026-03-30,Michael Ho,Furniture,Cabinet,7,853,5971,West
+1121,2026-01-03,Mark Bennett,Electronics,Headphones,2,119,238,East
+1122,2026-03-24,Jacob Tucker,Office Supplies,Printer Paper,5,630,3150,East
+1123,2026-01-18,Roger Santos,Office Supplies,Pen Set,8,424,3392,East
+1124,2026-01-15,Thomas Hartman,Electronics,Laptop,9,680,6120,West
+1125,2026-03-03,Daniel Rodriguez,Electronics,Laptop,8,196,1568,North
+1126,2026-03-12,Kelly Simmons,Electronics,Smartphone,4,982,3928,East
+1127,2026-01-23,Ryan Roberts,Office Supplies,Printer Paper,8,667,5336,West
+1128,2026-02-20,Aaron Jones,Electronics,Monitor,1,699,699,East
+1129,2026-03-06,Emily Williams,Office Supplies,Pen Set,3,877,2631,West
+1130,2026-02-27,Ethan Kennedy MD,Electronics,Laptop,4,884,3536,East
+1131,2026-01-26,George Smith,Furniture,Chair,3,181,543,South
+1132,2026-03-14,Daniel Green,Electronics,Laptop,3,80,240,East
+1133,2026-03-04,Thomas Spencer,Office Supplies,Printer Paper,4,855,3420,West
+1134,2026-02-09,Lisa Williams,Office Supplies,Printer Paper,5,73,365,North
+1135,2026-03-20,Julia Hull,Electronics,Monitor,5,488,2440,East
+1136,2026-01-22,Lauren Brady,Office Supplies,Printer Paper,9,43,387,East
+1137,2026-03-27,James Johnson,Electronics,Headphones,7,402,2814,North
+1138,2026-01-12,Timothy Arroyo,Furniture,Chair,3,219,657,East
+1139,2026-02-02,Christina Jones,Office Supplies,Stapler,2,755,1510,South
+1140,2026-02-20,Emma Coleman,Electronics,Headphones,1,257,257,West
+1141,2026-01-11,Tina Wilson,Office Supplies,Notebook,8,174,1392,East
+1142,2026-02-05,Crystal Weaver,Furniture,Cabinet,2,521,1042,East
+1143,2026-01-11,Tina Miller,Electronics,Headphones,3,652,1956,South
+1144,2026-03-11,Maurice Henderson,Electronics,Laptop,6,504,3024,East
+1145,2026-01-23,Jose Hernandez,Office Supplies,Stapler,9,305,2745,South
+1146,2026-03-19,Ronald Rodriguez,Furniture,Table,3,449,1347,South
+1147,2026-03-06,Jeffrey Thomas,Furniture,Cabinet,3,43,129,West
+1148,2026-01-02,Miranda Downs,Office Supplies,Pen Set,2,224,448,West
+1149,2026-02-05,Tracy Martinez,Furniture,Table,8,833,6664,North
+1150,2026-03-18,Jaime Moore,Electronics,Smartphone,1,391,391,East
+1151,2026-01-20,Alexandria Randolph,Furniture,Chair,1,413,413,South
+1152,2026-03-13,Edwin Curry,Electronics,Headphones,5,138,690,West
+1153,2026-01-27,Julia Pittman,Electronics,Monitor,5,84,420,West
+1154,2026-02-02,Christopher Garcia,Electronics,Smartphone,5,680,3400,North
+1155,2026-01-30,Jonathon Hale,Office Supplies,Printer Paper,9,406,3654,North
+1156,2026-02-11,Natasha Rocha,Electronics,Laptop,1,377,377,West
+1157,2026-02-27,Miguel Martinez,Furniture,Cabinet,7,957,6699,North
+1158,2026-03-08,Elizabeth Rhodes,Furniture,Table,8,362,2896,South
+1159,2026-03-07,Eric King,Electronics,Monitor,4,94,376,South
+1160,2026-03-11,Kenneth Pittman,Furniture,Table,2,544,1088,South
+1161,2026-02-05,Mr. Jacob Sanchez DVM,Electronics,Laptop,4,708,2832,North
+1162,2026-01-23,Alexandra Williams,Furniture,Cabinet,1,205,205,East
+1163,2026-01-18,Curtis Garrett,Electronics,Monitor,3,257,771,West
+1164,2026-01-04,Ann Norton,Furniture,Cabinet,5,819,4095,East
+1165,2026-01-21,Tim Sanders,Furniture,Desk,8,802,6416,West
+1166,2026-01-02,Nicholas Martin,Office Supplies,Pen Set,5,123,615,South
+1167,2026-01-21,Matthew Dawson,Electronics,Headphones,1,150,150,South
+1168,2026-02-28,Richard Hall,Office Supplies,Pen Set,5,286,1430,North
+1169,2026-02-03,Robert Rice,Electronics,Headphones,1,465,465,East
+1170,2026-03-26,Anthony Lucas,Furniture,Chair,3,515,1545,East
+1171,2026-03-17,Steve Kelley,Electronics,Monitor,7,522,3654,South
+1172,2026-02-10,Matthew Diaz,Electronics,Laptop,5,874,4370,North
+1173,2026-02-13,Amy Jones,Electronics,Smartphone,5,569,2845,East
+1174,2026-03-05,Julia Perry,Furniture,Desk,3,149,447,East
+1175,2026-02-10,David Stevens,Furniture,Chair,1,55,55,East
+1176,2026-03-19,Joyce Robertson,Electronics,Monitor,1,885,885,South
+1177,2026-01-28,Sharon Carter,Furniture,Table,8,555,4440,West
+1178,2026-01-17,Emma Petersen,Furniture,Desk,6,122,732,North
+1179,2026-01-11,Micheal Morales,Office Supplies,Notebook,1,58,58,South
+1180,2026-01-07,Justin Richardson,Electronics,Headphones,9,405,3645,South
+1181,2026-01-27,Spencer Hernandez,Office Supplies,Stapler,7,211,1477,East
+1182,2026-02-22,Lawrence Pena,Electronics,Headphones,2,79,158,North
+1183,2026-03-28,Christopher Waters,Office Supplies,Notebook,2,810,1620,West
+1184,2026-03-04,Robert Griffith,Furniture,Desk,3,451,1353,West
+1185,2026-01-10,Katherine Daniels,Electronics,Headphones,1,988,988,North
+1186,2026-02-07,Reginald Dunlap,Furniture,Cabinet,3,85,255,East
+1187,2026-02-20,Jennifer Lambert,Electronics,Monitor,8,405,3240,West
+1188,2026-02-15,Sheila Fernandez,Electronics,Monitor,4,988,3952,East
+1189,2026-02-16,Douglas Edwards,Furniture,Desk,5,454,2270,East
+1190,2026-03-28,Dawn Scott,Furniture,Cabinet,3,115,345,East
+1191,2026-02-17,Gregory Romero,Office Supplies,Stapler,6,916,5496,South
+1192,2026-01-13,James Jones,Electronics,Smartphone,3,671,2013,East
+1193,2026-02-12,Jacob Avery,Furniture,Chair,3,407,1221,East
+1194,2026-02-17,Stephanie Pena,Electronics,Headphones,6,409,2454,West
+1195,2026-03-07,Melissa Galloway,Electronics,Laptop,9,528,4752,West
+1196,2026-02-20,Cody Baldwin,Furniture,Desk,1,82,82,West
+1197,2026-03-08,Courtney Combs,Electronics,Smartphone,9,798,7182,East
+1198,2026-03-03,Amanda Bennett,Office Supplies,Pen Set,6,243,1458,South
+1199,2026-02-11,Austin Rodriguez,Furniture,Cabinet,1,30,30,South
+1200,2026-02-28,Crystal Thompson,Electronics,Monitor,1,871,871,East
