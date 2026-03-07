@@ -153,7 +153,7 @@ All visuals are cross-filtered, allowing users to click any data point and dynam
 
 > *Add a screenshot of your Power BI dashboard below by replacing the placeholder.*
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](assets/Dashboard_preview.png)
 
 *A clean, interactive Power BI dashboard featuring KPI cards, trend analysis, regional breakdowns, and category distribution visuals.*
 
