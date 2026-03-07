@@ -139,14 +139,13 @@ All visuals are cross-filtered, allowing users to click any data point and dynam
 
 ## 💡 Key Insights
 
-> *(Update these with your actual findings once the dashboard is built)*
+> ## 💡 Key Insights
 
-- 📈 **Sales Peak in Q4** — Monthly trend reveals a consistent sales spike in October–December, likely driven by seasonal demand.
-- 🌍 **Top Performing Region** — [Region Name] accounts for the largest share of total revenue at approximately [X]%.
-- 🏆 **Best-Selling Product** — [Product Name] leads all SKUs in revenue, contributing [X]% of total sales.
-- 🛍️ **Dominant Category** — [Category Name] represents the highest sales volume, while [Category Name] shows the strongest growth trend.
-- 💰 **Average Order Value** — The AOV of $[X] suggests an opportunity to increase basket size through upselling in lower-performing regions.
-
+- 📈 **Sales Growth Every Month** — Monthly trend shows consistent growth from $120K in January to $180K in March, indicating strong upward momentum in the first quarter.
+- 🌍 **North is the Top Performing Region** — North leads all regions in revenue, followed closely by East, South, and West respectively.
+- 🏆 **Laptop is the Best-Selling Product** — Laptop leads all products with $64K in sales, followed by Desk ($47K), Printer Paper ($45K), Table ($43K), and Stapler ($40K).
+- 🛍️ **Electronics Dominates Sales** — Electronics is the highest revenue category at 37.18% ($166.5K), followed by Furniture at 32.32% ($144.74K), and Office Supplies at 30.49% ($136.54K).
+- 💰 **Strong Average Order Value** — An AOV of $2.24K indicates customers are making high-value purchases, particularly in the Electronics category.
 ---
 
 ## 🖼️ Dashboard Preview
